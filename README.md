@@ -4,7 +4,7 @@
 Welcome to my portfolio of projects. Here you can follow my journey on learning how to use Python for finance. 
 
 # About My Portfolio
-My portfolio will demonstrate my aptitude for Python. Specifically, I will learn about:
+My portfolio will demonstrate my aptitude for Python. Specifically, I will show my skills in:
 * Pandas for analyzing dataframes
 * APIs for collecting data
 * PyViz for visualization
@@ -23,7 +23,7 @@ My goal is to land a job where I can put my data analytic skills to use. Some of
 * Business Analyst
 * Quantitative Analyst
 * Data Scientist 
-* Investment Banking Analyst 
+* Investment Banking Data Analyst 
 
 # About Me
 My name is Brandon Hubah and I graduated from the University of Waterloo in 2018 with a B.A. in Honours Economics, Specialization in Finance. I enrolled in the co-operative education program at uWaterloo which helped me to get valuable work experience before I graduated. My experiences range across different types of asset managers; mutual fund, insurance fund and hedge fund. I guess now you might understand why I am interested in learning Python for finance. Through my experiences, I witnessed first hand how traditional investment analysis is being outdated due to the availability of market data. I needed to learn how to leverage more powerful tools to keep up with the proliferation of financial data. Hence, my journey into using Python for finance. 
@@ -34,4 +34,8 @@ I am always happy to connect with new people. Whether you are just starting out 
 
 # Projects
 ## [Simulate Stock Trajectory](https://github.com/bran-hub/simulation-stock-trajectory-.git) 
-A simple project using Alpacas API to fetch historical stock data and using Monte Carlo Simulation to predict stock trajectory and establish porbabilities of earning money or not. 
+A simple project using Alpacas API to fetch historical stock data and using Monte Carlo Simulation to predict stock trajectory and establish porbabilities of earning money or not. In this project, you will see me use:
+*   Alpacas API to fetch stock market data
+*   Pandas for organizing data for analysis
+*   Monte Carlo Simulation 
+*   Statistical summaries of data
